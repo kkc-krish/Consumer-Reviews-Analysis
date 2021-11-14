@@ -32,6 +32,8 @@ Model -2: Aspect Based Sentiment Analysis also known as Feature Based Sentiment 
 Refer to Model-1 for Topic Modelling and LDA Analysis 
 Refer to Model-2 for Aspect Based Sentiment Analysis 
 
+Please download Modelling Notes Document for Problem Approach - output previews and analysis 
+
 Additional Coding references - websites index: 
 Github 
 Stackexchange 
