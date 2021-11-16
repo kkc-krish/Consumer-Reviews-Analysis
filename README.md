@@ -34,6 +34,13 @@ Refer to Model-2 for Aspect Based Sentiment Analysis
 
 Please download Modelling Notes Document for Problem Approach - output previews and analysis 
 
+Additional Model - Sentiment Classifier: 
+
+Sentiment analysis is the process of detecting positive or negative sentiment in text. 
+We will build classification algorithms to detect the text 
+
+We built Logistic regression and Random forests for sentiment classification as positive or negative reviews 
+
 Additional Coding references - websites index: 
 Github 
 Stackexchange 
